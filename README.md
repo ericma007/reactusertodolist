@@ -1,3 +1,7 @@
+reactusertodolist
+SPA React project: web site to manage users todos and posts list. based on react-create-app initial list retrieved from jsonplaceholder.typicode.com CRUD operations maintained locally Functional Components/conditional rendering Rendering/Router / Axios with npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
